@@ -1,0 +1,120 @@
+SPRING-AI:
+=========
+
+
+KeyUrl: https://platform.openai.com/api-keys
+
+KEY:  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
+
+un:rajutharala2021@gmail.com   NewTech@2024
+
+
+
+
+https://docs.spring.io/spring-ai/reference/api/clients/openai-chat.html
+
+
+The Spring AI project aims to streamline the development of applications that incorporate artificial intelligence functionality without unnecessary complexity.
+
+ChatClient:
+===========
+
+The chatclient interface stremline interaction with AI-MODULE, it simplyfies connecting to various AI-MODULES each with potentially unique APIS, by offering uniform interface for interaction.
+
+
+OpenAI Chat:
+===========
+
+Spring AI supports ChatGPT, the AI language model by OpenAI. ChatGPT has been instrumental in sparking interest in AI-driven text generation, thanks to its creation of industry-leading text generation models and embeddings.
+
+
+what is AI ?
+===========
+
+Artificial intelligence (AI) is technology that enables computers and digital devices to learn, read, write, create and analyze.
+
+Why AI ?
+=======
+Increased Efficiency: AI can automate repetitive tasks, improving efficiency and productivity in various industries. Data Analysis and Insights: AI algorithms can analyze large data quickly, providing valuable insights for decision-making.
+
+Types of AI models:
+===================
+Deeplearning,decission making,super vector mechines,logistices......
+
+what is NLP?
+============
+Natural language processing (NLP) is a branch of artificial intelligence (AI) that enables computers to comprehend, generate, and manipulate human language. Natural language processing has the ability to interrogate the data with natural language text or voice.
+
+
+
+Amazon Bedrock:
+===============
+The easiest way to build nd scale generate AI applications with foundation models(FMs).
+
+
+Amazon sagemaker:
+================
+
+Amazon SageMaker provides machine learning (ML) capabilities that are purpose-built for data scientists and developers to prepare, build, train, and deploy high-quality ML models efficiently.
+
+
+LLAMAINDEX:
+===========
+LlamaIndex is a simple, flexible data framework for connecting
+custom data sources to large language models.LlamaIndex provides the key tools to augment your LLM applications with data like data ingestion, data indexing and query interface
+
+=>Llamaindex and langchain both are create end to end GEN-AI projects,
+
+
+Diff B/W Llamaindex and langchain?
+
+1).PrimaryFocus
+
+intelligent to search and data indexing and retrival.
+Buidling a wide range of Gen-AI applications.
+
+2).Datahandling
+   ingesting 	structreing and accesing private or domain specific data.
+   Loading processing and indexing data for verious users,
+
+3). Customizations
+  integrating private data into LLMS.
+  Highly customizable it allows users to chain multiple tools and componetns.
+
+4).Programming language
+   Both python based library.
+
+
+Where use Llama index? Index technics
+where use Langechain ? prompt technics
+
+
+
+Boto3:
+=====
+
+The AWS SDK for Python (Boto3) provides a Python API for AWS infrastructure services. Using the SDK for Python, you can build applications on top of Amazon S3, Amazon EC2, Amazon DynamoDB,
+
+
+LLM(Large language model):
+=========================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
