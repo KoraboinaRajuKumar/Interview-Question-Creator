@@ -1,0 +1,23 @@
+https://docs.google.com/document/d/1khokqqZ9UMy9cCa6zzugFDml6PA0DXWg1DTf2UBP5WY/edit?pli=1     setup
+
+
+https://github.com/entbappy/Interview-Question-Creator    Git Url Buppy
+
+https://github.com/entbappy/Interview-Question-Creator/blob/main/data/stats.pdf
+
+
+https://drive.google.com/file/d/1BIaEtDPCWk6GQl_G9Idcw3pGWxxngrYn/view  HLD
+
+https://drive.google.com/file/d/15-3IrvNZXdeD0-aD6f4OSbopcYe5cAGH/view?pli=1 LLD
+
+
+https://github.com/entbappy/Deploy-Streamlit-app-on-EC2-instance    aws related cmd to deployment
+
+
+https://askubuntu.com/questions/1465218/pip-error-on-ubuntu-externally-managed-environment-%C3%97-this-environment-is-extern   issue cmd
+
+
+https://whimsical.com/   
+
+
+
